@@ -21,6 +21,22 @@ Claude: ✅ Tarea creada: Recordar comprar leche
 
 ---
 
+## 📸 Demo
+
+### 1. Crear una tarea
+![Crear tarea](capturas/create_task.png)
+
+### 2. Listar tareas pendientes
+![Listar tareas pendientes](capturas/list_task_pending.png)
+
+### 3. Completar una tarea
+![Completar tarea](capturas/complete_task.png)
+
+### 4. Verificar tarea completada
+![Tarea completada](capturas/list_task_completed.png)
+
+---
+
 ## 🏗️ Arquitectura
 
 ```
